@@ -21,7 +21,7 @@ const Signup = () => {
   const handlesubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch(`http://localhost:8080/register`, {
+      const response = await fetch(`https://vistra-backend-1.onrender.com/register`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
