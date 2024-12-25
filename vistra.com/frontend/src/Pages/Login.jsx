@@ -38,7 +38,7 @@ const Login = () => {
     } catch (error) {
       console.error("Error during submission:", error);
     }
-  };
+  }
   return (
     <>
     <Header/>

@@ -20,6 +20,11 @@
     z-index: 10;
   }
   
+h5{
+  text-align: center;
+  font-size: 40px;
+}
+
   /* Logo Section */
   .logo-container {
     display: flex;
@@ -76,6 +81,19 @@
   .helping-number i {
     margin-right: 5px;
     color: #e74c3c;
+  }
+  
+  .cart-logo {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    color: #ecf0f1;
+  }
+
+  .cart-logo i {
+    margin-right: 5px;
+    color: #ecf0f1;
+    /* color: #e74c3c; */
   }
   
   /* Sign-In Dropdown */
@@ -735,7 +753,7 @@
 
 .product-card img {
   max-width: 100%;
-  height: auto;
+  height: 300px;
   border-radius: 8px;
   margin-bottom: 15px;
 }
@@ -1437,3 +1455,4 @@ footer {
     font-size: 1.2rem;
     font-weight: bold;
 }
+

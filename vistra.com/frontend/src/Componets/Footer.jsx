@@ -48,10 +48,10 @@ const Footer = () => {
                         {/* <img src="visa.png" alt="Visa" /> */}
                     </div>
                     <div class="social-icons">
-                        <a href="https://www.facebook.com" target="_blank" class="social-icon"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="https://twitter.com" target="_blank" class="social-icon"><i class="fa-brands fa-twitter"></i></a>
-                        <a href="https://wa.me/9555274441" target="_blank" class="social-icon"><i class="fa-brands fa-whatsapp"></i></a>
-                        <a href="https://www.linkedin.com" target="_blank" class="social-icon"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com" target="_blank" class="social-icon"><i class="fa-brands fa-facebook-f"></i></a>&nbsp;
+                        <a href="https://twitter.com" target="_blank" class="social-icon"><i class="fa-brands fa-twitter"></i></a>&nbsp;
+                        <a href="https://wa.me/9555274441" target="_blank" class="social-icon"><i class="fa-brands fa-whatsapp"></i></a>&nbsp;
+                        <a href="https://www.linkedin.com" target="_blank" class="social-icon"><i class="fa-brands fa-linkedin"></i></a>&nbsp;
                         <a href="https://www.youtube.com" target="_blank" class="social-ion"><i class="fa-brands fa-youtube"> </i></a>
                         <div class="country-selector">
                             {/* <img src="india-flag.png" alt="India" /> */}
